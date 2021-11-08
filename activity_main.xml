@@ -40,7 +40,14 @@
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
         android:text="Add values"
-        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="arvi"
+        android:layout_gravity="center"
         />
 
 </LinearLayout>
